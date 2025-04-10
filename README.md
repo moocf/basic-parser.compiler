@@ -33,3 +33,5 @@ use `./scanner <input file>` to run scanner.
 - how do you have line numbers or labels in lines
 - how do you keep track of it
 - close needs to validates es to ints and call1 close
+
+![](https://ga-beacon.deno.dev/G-G1E8HNDZYY:v51jklKGTLmC3LAZ4rJbIQ/github.com/moocf/basic-parser.compiler)
